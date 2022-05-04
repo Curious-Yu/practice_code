@@ -1,3 +1,15 @@
+# Practicing Codes
+
+### [Learning Algorithms in JavaScript from Scratch - Udemy](https://www.udemy.com/course/learning-algorithms-in-javascript-from-scratch/)
+
+### [The Coding Interview Bootcamp: Algorithms + Data Structures - Udemy](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+
+
+
+
+
+
+
 
 
 ```mermaid
@@ -38,3 +50,5 @@ graph TD;
     click D7 "https://github.com/Curious-Yu/practice_code/wiki/Python" _blank
     
 ```
+
+

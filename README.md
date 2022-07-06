@@ -52,15 +52,27 @@ graph TD;
 
 HTML is the standard markup language for creating Web pages.
 
+</br>
+
+
+
 # CSS
 
 CSS is the language we use to style a Web page.
 
 CSS describes how HTML elements should be displayed.
 
+</br>
+
+
+
 # Bootstrap
 
 Bootstrap is the world's most famous free CSS framework.
+
+</br>
+
+
 
 # JavaScript
 
@@ -70,6 +82,10 @@ JavaScript can update and change both HTML and CSS.
 
 JavaScript can calculate, manipulate and validate data.
 
+</br>
+
+
+
 # React
 
 React is a JavaScript library created by Facebook.
@@ -77,6 +93,10 @@ React is a JavaScript library created by Facebook.
 React is a User Interface (UI) library.
 
 React is a tool for building UI components.
+
+</br>
+
+
 
 # Angular
 
@@ -86,9 +106,17 @@ AngularJS directives offers functionality to HTML applications.
 
 AngularJS provides built-in directives and user defined directives.
 
+</br>
+
+
+
 # SQL
 
 SQL is a standard language for accessing and manipulating databases.
+
+</br>
+
+
 
 # Cplusplus
 
@@ -97,6 +125,10 @@ C++ is used to create computer programs, and is one of the most used language in
 C++ is a cross-platform language that can be used to create high-performance applications.
 
 C++ gives programmers a high level of control over system resources and memory.
+
+</br>
+
+
 
 # Java
 
@@ -109,6 +141,10 @@ It is used for:
 - Games
 - Database connection
 
+</br>
+
+
+
 # Python
 
 It is used for:
@@ -117,6 +153,20 @@ It is used for:
 - software development
 - mathematics
 - system scripting
+
+</br>
+
+# Resources
+
+<details><summary>Coding Interview Preps</summary>
+    
+- [Editing Learning Algorithms in JavaScript from Scratch Udemy](https://github.com/Curious-Yu/practice_code/wiki/Learning-Algorithms-in-JavaScript-from-Scratch---Udemy)
+    
+- [JavaScript Algorithms and Data Structures Freecodecamp](https://github.com/Curious-Yu/practice_code/wiki/JavaScript-Algorithms-and-Data-Structures---Freecodecamp)
+    
+- [Cracking the Coding Interview - Javascript](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
+
+</details>
 
 
 

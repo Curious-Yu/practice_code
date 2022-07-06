@@ -28,7 +28,7 @@ graph TD;
     
     click A1 "https://github.com/Curious-Yu/practice_code" _blank
     
-    click C1 "[#HTML]" _blank
+    click C1 "https://github.com/Curious-Yu/practice_code/blob/main/README.md#html" _blank
 
     
 ```

@@ -37,7 +37,7 @@ graph TD;
     click D3 "Curious-Yu/practice_code#javascript" _blank
     
     click E1 "Curious-Yu/practice_code#bootstrap" _blank
-    click E1 "Curious-Yu/practice_code#sass" _blank
+    click E2 "Curious-Yu/practice_code#sass" _blank
     click E3 "Curious-Yu/practice_code#react" _blank
     click E4 "Curious-Yu/practice_code#jquery" _blank
     click E5 "Curious-Yu/practice_code#angular" _blank

@@ -84,6 +84,8 @@ Sass is a CSS pre-processor.
 
 Sass reduces repetition of CSS and therefore saves time.
 
+Good to use to keep things consistent.
+
 </br>
 
 

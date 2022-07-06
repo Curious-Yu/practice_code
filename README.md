@@ -27,8 +27,12 @@ graph TD;
     C3-->D7([Python]);
     
     click A1 "https://github.com/Curious-Yu/practice_code" _blank
+    
+    click C1 "[#HTML]" _blank
 
     
 ```
+
+### HTML
 
 

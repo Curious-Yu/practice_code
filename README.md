@@ -37,7 +37,7 @@ graph TD;
     
     click D4 "Curious-Yu/practice_code#sql" _blank
     
-    click D5 "Curious-Yu/practice_code#c++" _blank
+    click D5 "Curious-Yu/practice_code#cplusplus" _blank
     click D6 "Curious-Yu/practice_code#java" _blank
     click D7 "Curious-Yu/practice_code#python" _blank
     
@@ -57,7 +57,7 @@ graph TD;
 
 # SQL
 
-# C++
+# Cplusplus (C++)
 
 # Java
 

@@ -28,12 +28,18 @@ graph TD;
     
     click A1 "https://github.com/Curious-Yu/practice_code" _blank
     
-    click C1 "Curious-Yu/practice_code#html" _blank
-    click D1 "https://github.com/Curious-Yu/practice_code/blob/main/README.md#html" _blank
+    click D1 "Curious-Yu/practice_code#html" _blank
+    click D2 "Curious-Yu/practice_code#css" _blank
+    click D2 "Curious-Yu/practice_code#javascript" _blank
+    
 
     
 ```
 
-### HTML
+# HTML
+
+# CSS
+
+# JavaScript
 
 

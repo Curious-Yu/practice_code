@@ -30,7 +30,7 @@ graph TD;
     
     click D1 "Curious-Yu/practice_code#html" _blank
     click D2 "Curious-Yu/practice_code#css" _blank
-    click D2 "Curious-Yu/practice_code#javascript" _blank
+    click D3 "Curious-Yu/practice_code#javascript" _blank
     
 
     

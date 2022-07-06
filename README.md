@@ -2,14 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
 ```mermaid
 graph TD;
 
@@ -35,17 +27,7 @@ graph TD;
     C3-->D7([Python]);
     
     click A1 "https://github.com/Curious-Yu/practice_code" _blank
-    
-    
-    
-    click D1 "https://github.com/Curious-Yu/practice_code/wiki/HTML" _blank
-    click D2 "https://github.com/Curious-Yu/practice_code/wiki/CSS" _blank
-    click D3 "https://github.com/Curious-Yu/practice_code/wiki/JavaScript" _blank
-    click E1 "https://github.com/Curious-Yu/practice_code/wiki/React" _blank
-    click D4 "https://github.com/Curious-Yu/practice_code/wiki/SQL" _blank
-    click D5 "https://github.com/Curious-Yu/practice_code/wiki/C_plus_plus" _blank
-    click D6 "https://github.com/Curious-Yu/practice_code/wiki/Java" _blank
-    click D7 "https://github.com/Curious-Yu/practice_code/wiki/Python" _blank
+
     
 ```
 

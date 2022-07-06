@@ -18,9 +18,11 @@ graph TD;
     C1-->D3([JavaScript]);
     
     D2-->E1([Bootstrap]);
+    D2-->E2([Sass]);
     
-    D3-- Library built using JSX -->E2([React]);
-    D3-- Framework built using Typescript -->E3([Angular]);
+    D3-- Library built using JSX -->E3([React]);
+    D3-->E4([jQuery]);
+    D3-- Framework built using Typescript -->E5([Angular]);
     
     C2-->D4([SQL]);
     
@@ -34,9 +36,11 @@ graph TD;
     click D2 "Curious-Yu/practice_code#css" _blank
     click D3 "Curious-Yu/practice_code#javascript" _blank
     
-    click E2 "Curious-Yu/practice_code#bootstrap" _blank
-    click E2 "Curious-Yu/practice_code#react" _blank
-    click E3 "Curious-Yu/practice_code#angular" _blank
+    click E1 "Curious-Yu/practice_code#bootstrap" _blank
+    click E1 "Curious-Yu/practice_code#sass" _blank
+    click E3 "Curious-Yu/practice_code#react" _blank
+    click E4 "Curious-Yu/practice_code#jquery" _blank
+    click E5 "Curious-Yu/practice_code#angular" _blank
     
     click D4 "Curious-Yu/practice_code#sql" _blank
     
@@ -74,6 +78,16 @@ Bootstrap is the world's most famous free CSS framework.
 
 
 
+# SASS
+
+Sass is a CSS pre-processor.
+
+Sass reduces repetition of CSS and therefore saves time.
+
+</br>
+
+
+
 # JavaScript
 
 JavaScript is the Programming Language for the Web.
@@ -93,6 +107,16 @@ React is a JavaScript library created by Facebook.
 React is a User Interface (UI) library.
 
 React is a tool for building UI components.
+
+</br>
+
+
+
+# jQuery
+
+jQuery is a JavaScript Library.
+
+jQuery greatly simplifies JavaScript programming.
 
 </br>
 

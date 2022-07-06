@@ -14,7 +14,7 @@
 graph TD;
 
     A1[[Practice Code]]-->B1((Programming Languages));
-    A1-->B2((Coding Problems));
+    A1[[Practice Code]]-->B2((Books/Courses));
     
     B1-->C1{Front End};
     B1-->C2{Database};
@@ -36,7 +36,7 @@ graph TD;
     
     click A1 "https://github.com/Curious-Yu/practice_code" _blank
     
-    click B2 "https://github.com/Curious-Yu/practice_code/wiki/Coding-Problems" _blank
+    
     
     click D1 "https://github.com/Curious-Yu/practice_code/wiki/HTML" _blank
     click D2 "https://github.com/Curious-Yu/practice_code/wiki/CSS" _blank

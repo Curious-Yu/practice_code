@@ -32,6 +32,15 @@ graph TD;
     click D2 "Curious-Yu/practice_code#css" _blank
     click D3 "Curious-Yu/practice_code#javascript" _blank
     
+    click E1 "Curious-Yu/practice_code#react" _blank
+    click E2 "Curious-Yu/practice_code#angular" _blank
+    
+    click D4 "Curious-Yu/practice_code#sql" _blank
+    
+    click D5 "Curious-Yu/practice_code#c++" _blank
+    click D6 "Curious-Yu/practice_code#java" _blank
+    click D7 "Curious-Yu/practice_code#python" _blank
+    
 
     
 ```
@@ -41,5 +50,19 @@ graph TD;
 # CSS
 
 # JavaScript
+
+# React
+
+# Angular
+
+# SQL
+
+# C++
+
+# Java
+
+# Python
+
+
 
 

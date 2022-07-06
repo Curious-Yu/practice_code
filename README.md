@@ -57,7 +57,7 @@ graph TD;
 
 # SQL
 
-# Cplusplus (C++)
+# Cplusplus
 
 # Java
 

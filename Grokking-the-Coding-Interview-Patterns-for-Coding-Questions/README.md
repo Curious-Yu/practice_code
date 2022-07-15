@@ -16,13 +16,13 @@
 
 2. Pattern: Two Pointers
 
-Pair with Target Sum (easy)
-Remove Duplicates (easy)
-Squaring a Sorted Array (easy)
-Triplet Sum to Zero (medium)
-Triplet Sum Close to Target (medium)
-Triplets with Smaller Sum (medium)
-Subarrays with Product Less than a Target (medium)
+* Pair with Target Sum (easy)
+* Remove Duplicates (easy)
+* Squaring a Sorted Array (easy)
+* Triplet Sum to Zero (medium)
+* Triplet Sum Close to Target (medium)
+* Triplets with Smaller Sum (medium)
+* Subarrays with Product Less than a Target (medium)
 
 ***
 
@@ -117,9 +117,9 @@ Subarrays with Product Less than a Target (medium)
 
 12. Pattern: Bitwise XOR
 
-Single Number (easy)
-Two Single Numbers (medium)
-Complement of Base 10 Number (medium)
+* Single Number (easy)
+* Two Single Numbers (medium)
+* Complement of Base 10 Number (medium)
 
 ***
 
@@ -169,4 +169,4 @@ Complement of Base 10 Number (medium)
 
 17. Miscellaneous
 
-Kth Smallest Number (hard)
+* Kth Smallest Number (hard)

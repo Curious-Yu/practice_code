@@ -189,6 +189,8 @@ It is used for:
 - [Cracking the Coding Interview - Javascript](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
 
 - [Cracking the Coding Interview HackerRank Videos](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
+    
+- [Leetcode problems in Javascript Videos - Andy Gala]([https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK](https://www.youtube.com/playlist?list=PLrClazTqVpJlyey7Szwe_XX9meD4wl2Ma))
 
 </details>
 

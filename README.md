@@ -186,13 +186,9 @@ It is used for:
 
 <details><summary>Coding Interview Preps</summary>
     
-- [Editing Learning Algorithms in JavaScript from Scratch Udemy](https://github.com/Curious-Yu/practice_code/wiki/Learning-Algorithms-in-JavaScript-from-Scratch---Udemy)
-    
-- [JavaScript Algorithms and Data Structures Freecodecamp](https://github.com/Curious-Yu/practice_code/wiki/JavaScript-Algorithms-and-Data-Structures---Freecodecamp)
-    
 - [Cracking the Coding Interview - Javascript](https://github.com/careercup/CtCI-6th-Edition-JavaScript)
 
-- [Front End Development Libraries FreeCodeCamp](https://github.com/Curious-Yu/practice_code/wiki/Front-End-Development-Libraries---FreeCodeCamp)
+- [Cracking the Coding Interview HackerRank Videos](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK)
 
 </details>
 

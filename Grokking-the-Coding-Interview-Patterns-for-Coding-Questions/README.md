@@ -124,6 +124,51 @@ var minSubArrayLen = function(target, nums) {
 };
 ```
 
+```
+/**
+ * @param {number} target
+ * @param {number[]} nums
+ * @return {number}
+ */
+var minSubArrayLen = function(target, nums) {
+    
+    
+    let subLength = Infinity;
+    
+    
+    let left = 0;
+    let right = 1;
+    let count = 2;
+    
+    if (nums[left] >= target){
+        return 1;
+    }
+    
+    let sum = nums[left] + nums[right];
+    
+    while (right < nums.length){
+        if (sum < target){
+            right++;
+            count++;
+            sum += nums[right];
+        } else {
+            sum -= nums[left];      
+            subLength = Math.min(subLength, count);
+            count--;
+            left++;
+        }
+        
+    }
+    
+    if (subLength === Infinity){
+        return 0;
+    }
+    
+    return subLength;
+    
+    
+};
+```
 
 
 
